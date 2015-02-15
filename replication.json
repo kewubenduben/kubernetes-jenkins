@@ -15,7 +15,7 @@
           "containers": [
             {
               "name": "jenkins-slave",
-              "image": "csanchez/jenkins-swarm-slave:1.21",
+              "image": "csanchez/jenkins-swarm-slave:1.22",
               "command": [
                 "sh",
                 "-c",
